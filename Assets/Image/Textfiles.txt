@@ -1,1 +1,0 @@
-<!-- Add image and required text file in this folder -->
